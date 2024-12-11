@@ -1,0 +1,13 @@
+{
+  "ProcessedFiles": [
+    "word1.docx",
+    "word2.docx",
+    "Word3.docx"
+  ],
+  "FilesWithMissingMetadata": [
+    "word2.docx",
+    "Word3.docx"
+  ],
+  "TotalWordCount": 58,
+  "Errors": []
+}

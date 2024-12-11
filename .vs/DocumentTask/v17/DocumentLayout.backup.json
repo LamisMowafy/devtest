@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohab\\source\\repos\\devtest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|c:\\users\\mohab\\source\\repos\\devtest\\documenttask\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|solutionrelative:documenttask\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|c:\\users\\mohab\\source\\repos\\devtest\\documenttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|solutionrelative:documenttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|c:\\users\\mohab\\source\\repos\\devtest\\documenttask\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|solutionrelative:documenttask\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|c:\\users\\mohab\\source\\repos\\devtest\\documenttask\\documenttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|solutionrelative:documenttask\\documenttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|c:\\users\\mohab\\source\\repos\\devtest\\documenttask\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|solutionrelative:documenttask\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|c:\\users\\mohab\\source\\repos\\devtest\\documenttask\\models\\metadatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE578652-8901-47A0-9DC0-356412C0273F}|DocumentTask\\DocumentTask.csproj|solutionrelative:documenttask\\models\\metadatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "DocumentTask\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "DocumentTask\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA2wB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:00:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Program.cs",
+              "RelativeToolTip": "DocumentTask\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:42:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Views\\Document\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentTask\\Views\\Document\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Views\\Document\\Index.cshtml",
+              "RelativeToolTip": "DocumentTask\\Views\\Document\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:41:46.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\DocumentTask.csproj",
+              "RelativeDocumentMoniker": "DocumentTask\\DocumentTask.csproj",
+              "ToolTip": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\DocumentTask.csproj",
+              "RelativeToolTip": "DocumentTask\\DocumentTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T15:39:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetadataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Models\\MetadataModel.cs",
+              "RelativeDocumentMoniker": "DocumentTask\\Models\\MetadataModel.cs",
+              "ToolTip": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Models\\MetadataModel.cs",
+              "RelativeToolTip": "DocumentTask\\Models\\MetadataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:39:36.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DocumentTask\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Mohab\\source\\repos\\devtest\\DocumentTask\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DocumentTask\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:46:20.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

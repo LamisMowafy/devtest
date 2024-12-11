@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Upload Word Files";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="ProcessFiles" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="files">Select Word Files:</label>
+        <input type="file" name="files" id="files" multiple class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Upload and Process</button>
+</form>
